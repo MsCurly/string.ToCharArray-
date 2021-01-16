@@ -1,0 +1,7 @@
+C:\Users\zuley\Desktop\Turkcell Geleceği Yazanlar\Ödevler\string.ToCharArray()\string.ToCharArray()\bin\Debug\@string.ToCharArray__.exe.config
+C:\Users\zuley\Desktop\Turkcell Geleceği Yazanlar\Ödevler\string.ToCharArray()\string.ToCharArray()\bin\Debug\@string.ToCharArray__.exe
+C:\Users\zuley\Desktop\Turkcell Geleceği Yazanlar\Ödevler\string.ToCharArray()\string.ToCharArray()\bin\Debug\@string.ToCharArray__.pdb
+C:\Users\zuley\Desktop\Turkcell Geleceği Yazanlar\Ödevler\string.ToCharArray()\string.ToCharArray()\obj\Debug\string.ToCharArray().csprojAssemblyReference.cache
+C:\Users\zuley\Desktop\Turkcell Geleceği Yazanlar\Ödevler\string.ToCharArray()\string.ToCharArray()\obj\Debug\string.ToCharArray().csproj.CoreCompileInputs.cache
+C:\Users\zuley\Desktop\Turkcell Geleceği Yazanlar\Ödevler\string.ToCharArray()\string.ToCharArray()\obj\Debug\@string.ToCharArray__.exe
+C:\Users\zuley\Desktop\Turkcell Geleceği Yazanlar\Ödevler\string.ToCharArray()\string.ToCharArray()\obj\Debug\@string.ToCharArray__.pdb
